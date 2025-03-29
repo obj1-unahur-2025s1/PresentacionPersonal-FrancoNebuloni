@@ -10,6 +10,7 @@
 - Este es mi segundo año en la facultad
 - Actualmente estoy cursando la tecnicatura en programación
 - Ya he aprobado 7 materias
+- Se usar un poco de HTML, CSS y Java
 - Me gusta leer manga, manwha, fanfiction y jugar videojuegos
 - Mi gusto por la música es algo aleatorio
 - Estoy apuntando a terminar la licenciatura en al menos 5-6 años
